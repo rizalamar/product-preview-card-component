@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/rizalamarulloh/Desktop/Front-end%20Mentor/product-preview-card-component-main/screenshot.png?version%3D1757107355687)
+![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/rizalamarulloh/Desktop/Front-end%20Mentor/product-preview-card-component-main/screenshot.png?version%3D1757146076863)
 
 ## My process
 
